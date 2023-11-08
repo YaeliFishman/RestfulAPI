@@ -1,0 +1,27 @@
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.AssemblyInfo.cs
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\RESTful API.exe
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\RESTful API.deps.json
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\RESTful API.runtimeconfig.json
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\RESTful API.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\RESTful API.pdb
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\scopedcss\bundle\RESTful API.styles.css
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.csproj.CopyComplete
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\refint\RESTful API.dll
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.pdb
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\RESTful API.genruntimeconfig.cache
+Y:\Groups\Group_5\פישמן  יעל\dotnet\lesson3\RESTful API\RESTful API\obj\Debug\net6.0\ref\RESTful API.dll
